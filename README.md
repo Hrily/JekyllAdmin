@@ -20,7 +20,7 @@ Jekyll Admin uses GitHub REST Api v3.
 }
 ```
 
-+ Create `gh-pages` branch
++ Create `gh-pages` branch or turn on Github pages on master branch from Settings
 
 + Goto `https://<username>.github.io/JekyllAdmin` to get started
 
